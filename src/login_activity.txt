@@ -1,0 +1,58 @@
+Login Unsuccessful - Username field was empty - Timestamp : 2023-03-24 17:08:36
+Login Unsuccessful - Password field was empty - username provided: afds - Timestamp : 2023-03-24 17:08:43
+Login Unsuccessful - Incorrect credentials - username provided: afds password provided: adf - Timestamp : 2023-03-24 17:08:46
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-24 17:08:50
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 14:26:12
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 15:38:41
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 15:53:24
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 16:25:09
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 16:35:34
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 16:42:00
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 16:43:11
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 16:50:38
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 17:01:45
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 17:05:14
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 17:15:21
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-27 17:16:19
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 10:46:41
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 10:56:20
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 11:00:59
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 11:02:34
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 11:03:26
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 11:10:10
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 11:11:24
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 11:12:26
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 11:14:54
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 11:16:18
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 11:26:52
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 11:33:50
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 14:30:31
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 14:37:09
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 14:38:00
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 14:38:43
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 14:40:05
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 14:41:54
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 14:49:18
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-28 17:14:42
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 10:08:24
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:19:35
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:21:05
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:23:35
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:25:41
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:26:33
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:33:58
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:34:35
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:41:54
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:43:07
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:48:00
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:51:05
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:52:04
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:53:06
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 15:55:04
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 16:00:01
+Login Successful - username provided: test password provided: test - Timestamp : 2023-03-29 16:07:37
+Login Unsuccessful - Incorrect credentials - username provided: test password provided: test - Timestamp : 2023-03-29 16:09:26
+Login Unsuccessful - Incorrect credentials - username provided: sadfa password provided: t - Timestamp : 2023-03-29 16:09:31
+Login Unsuccessful - Incorrect credentials - username provided: adfa password provided: afdsasdf - Timestamp : 2023-03-29 16:09:35
+Login Successful - username provided: user1 password provided: user1 - Timestamp : 2023-03-29 16:09:44
+Login Successful - username provided: user1 password provided: user1 - Timestamp : 2023-04-03 10:53:24
